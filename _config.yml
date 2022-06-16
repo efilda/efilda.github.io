@@ -1,6 +1,6 @@
 title: Hello, My Name is Efilda
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, My Name is Efilda. i am a student at UIN SUSKA RIAU
+  Hello, My Name is Efilda
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/efilda/efilda.github.io" # the base hostname & protocol for your site, e.g. http://example.com
