@@ -13,4 +13,4 @@ Traveling itself can be a hobby or someone's experience in exploring new places.
 ###  Relieve Stress
 This traveling activity can certainly help us relieve stress, of course. Many places that you will visit, both the environment and the natural surroundings that can make us feel relaxed. Interaction with various humans can also allow us to gain new experiences and knowledge, thus opening our minds more broadly.
 
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
+![Macbook]({{site.baseurl}}/assets/img/mac.jpeg)
